@@ -4298,7 +4298,13 @@
 				height: 100%;
 				border-radius: 0;
 			}
+		@media screen and (max-width: 1920px) {
 
+			.banner.style6 .content {
+				padding: 6rem 6rem 5rem 6rem ;
+			}
+
+		}
 		@media screen and (max-width: 1680px) {
 
 			.banner.style6 .content {
